@@ -1,5 +1,3 @@
-🏥 Hospital Management Analytics
-
 📌 **Problem Statement**
 
 Hospitals generate massive volumes of data across patients, appointments, billing, insurance, and diseases. However, this data often remains siloed, making it difficult to integrate and extract insights for decision-making.
